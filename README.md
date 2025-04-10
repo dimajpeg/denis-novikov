@@ -1,11 +1,11 @@
 Я зробив макет по шаблону з Figma, додав стилі та налаштував компоненти на основі цього дизайну та підключив normalize.css
 Приклад:
 
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/8e81e46a-0b32-40ff-9d15-b00fe125677d" />
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/b4fbc9ee-079c-4fe4-b8b9-98dd39ab02b0" />
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/44981121-c4e0-4776-9021-70a4dcd9ce0b" />
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/6ea0ebaf-db0b-457f-9d51-4ebbc941ba24" />
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/3e0789c9-10dd-4ce4-85a2-97446d3a1778" />
-<img width="1469" alt="image" src="https://github.com/user-attachments/assets/d702fb0d-94c4-4a0d-be11-79800390f8a3" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/d57296f8-1119-45f5-b530-3ed7f88c5788" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/f61c5908-3cf9-487c-9ece-8acdc618025b" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/894025b3-188c-426b-9098-d96e0e1902da" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/a1da7735-7578-40b5-86f6-f7ad4f0b6676" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/167a1bf1-2e38-4933-b8d3-02cb02712bf8" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/af9af2ec-e436-4555-a4a1-79ae2dce3b2a" />
 
 
