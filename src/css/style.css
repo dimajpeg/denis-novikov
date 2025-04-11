@@ -14,7 +14,6 @@ body {
 
 }
 
-
   header {
     display: flex;
     align-items: center;
@@ -124,6 +123,9 @@ h2 {
   height: 564px;
 }
 
+h4{
+  height: 48px;;
+}
 .skills-description {
   font-family: var(--font-family);
   font-weight: 400;
@@ -204,8 +206,7 @@ h2 {
 .project img {
   width: 970px;
   height: 540px;
-  object-fit: cover;
-  background: url("path_to_image");
+  
 }
 
 .project nav a {
@@ -301,3 +302,4 @@ footer {
   text-align: center;
   color: var(--text);
 }
+
